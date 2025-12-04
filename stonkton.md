@@ -29,16 +29,5 @@ Things u can do
 🧘 Become emotionally unstable while trading (optional, not guaranteed)
 
 
-🛠 Tech Stack
----
-
-| Feature       | Technology                     |
-| ------------- | ------------------------------ |
-| UI            | 🧁 SwiftUI                     |
-| Architecture  | 🧱 MVVM                        |
-| Persistence   | 📦 SwiftData                   |
-| Network Calls | 🌐 URLSession (API: FMP)       |
-| Design Style  | ☁️ Minimalistic                |
-| Mood          | 😎 stonk vibes                 |
 
 ![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM4NHMzN2J4dW9kdjRjNGJwcWNuZjUyeTByNHoxMGp4MWN1Z2JyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnkMcHgNIMW4Yfmjxr/giphy.gif)
